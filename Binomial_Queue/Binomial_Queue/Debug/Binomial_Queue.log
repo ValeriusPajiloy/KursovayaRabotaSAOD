@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Валера\Учеба\Лабы\САОД\Курсач\Binomial_Queue\Binomial_Queue\Source.cpp(612,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Binomial_Queue.vcxproj -> D:\Валера\Учеба\Лабы\САОД\Курсач\Binomial_Queue\Debug\Binomial_Queue.exe
